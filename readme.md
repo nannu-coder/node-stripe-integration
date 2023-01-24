@@ -5,7 +5,7 @@ This project is an example of how to integrate Stripe payments into a Node.js ap
 ## Getting Started
 
 1. Clone the repository
-   `git clone [https://github.com/nannu-coder/node-stripe-integration](https://github.com/nannu-coder/node-stripe-integration)`
+   `git clone` [https://github.com/nannu-coder/node-stripe-integration](https://github.com/nannu-coder/node-stripe-integration)
 
 2. Install the dependencies
 
