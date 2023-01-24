@@ -31,6 +31,8 @@ To make a payment, send a `POST` request to the `/stripe` endpoint with a JSON b
 - [Express](https://expressjs.com/)
 - [Stripe](https://stripe.com/)
 
+![node-payment-stripe](https://i.postimg.cc/K8sf7PtH/payment.png)
+
 ## Author
 
 [Nannu](https://github.com/nannu-coder/)
